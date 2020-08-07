@@ -5,7 +5,7 @@ import TimeboxList from './TimeboxList'
 export default () => {
     return (
         <Router>
-            <Route path="/" exact component={TimeboxList} />
+            {/* <Route path="/" exact component={TimeboxList} /> */}
         </Router>
     )
 }
