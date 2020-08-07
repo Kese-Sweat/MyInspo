@@ -1,11 +1,14 @@
 import React from 'react';
+import '../styles/index.css'
+
+
 
 function Inspo (){
 
 
     return(
         <div>
-            <h1>lets get it dawg...test test</h1>
+            <h1 className="BackGround"></h1>
         </div>
     )
 }
