@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/index.css'
+import '/Users/markese/Desktop/myinspo/client/src/styles/Inspo.css'
 
 
 
@@ -8,7 +8,7 @@ function Inspo (){
 
     return(
         <div>
-            <h1 className="BackGround"></h1>
+            <div className="BackGround"></div>
         </div>
     )
 }
